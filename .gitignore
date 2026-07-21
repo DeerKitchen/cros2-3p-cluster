@@ -1,0 +1,13 @@
+# Build / editor
+build/
+install/
+log/
+*.o
+*.a
+*.so
+*.pyc
+__pycache__/
+.vscode/
+.idea/
+*.swp
+.DS_Store
